@@ -1,0 +1,155 @@
+body{
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.css-ffhzg2 {
+  /* background-image: url("https://w0.peakpx.com/wallpaper/8/305/HD-wallpaper-finance-concepts-charts-background-with-graphs-stock-exchanges-money-business-concepts-finance.jpg"); */
+  background-image: url("https://w0.peakpx.com/wallpaper/502/217/HD-wallpaper-cyan-color-background-ultra-aero-colorful-color-background-cyan-simple-colour-minimalism-gradient-greenishblue.jpg");
+
+  background-repeat: no-repeat;
+ background-size: cover;
+}
+.st-af {
+  font-size: 1.5rem;
+}
+.css-fplge5 {
+  background: #262730;
+}
+.css-j5r0tf {
+  background: #262730;
+}
+.css-16huue1 {
+  color: #274472;
+  font-weight: bolder;
+  font-size: 26px;
+}
+.css-t7gm4f.e1tzin5v0{
+  background: gray;
+}
+p, ol, ul, dl {
+  font-size: 1.3rem;
+  font-weight: bolder;
+  text-align: center;
+  color: #fafafa;
+  padding: 10px;
+}
+.Ans{
+  text-align: left !important;
+  padding-left: 2rem !important;
+}
+.Ans p{
+  margin: 10px auto !important;
+}
+.css-15zrgzn {
+  display: none;
+}
+.st-ce, .st-cb {
+  padding-bottom: 0px;
+}
+.st-cd, .st-ca {
+  padding-top: 0px;
+}
+
+code {
+  color: #2fb2f3;
+  font-weight: bolder;
+  font-size: 71%;
+}
+h2{
+font-family: 'HP Simplified Hans';
+font-weight: bolder;
+font-size: 2.5rem;
+text-align: center;
+text-shadow: 2px 2px #4c5270;
+color: #fafafa;
+}
+.css-16huue1 {
+  font-size: 20px;
+}
+.css-r698ls {
+  display: none;
+}
+.css-2ykyy6 {
+  display: none;
+}
+.css-183lzff {
+  font-size: 44px;
+  text-align: center;
+  font-weight: bolder;
+  text-decoration: underline;
+}
+.css-1q8dd3e {
+  margin-left: 44%;
+  margin-right: auto;
+  font-size: 1.5rem;
+  margin-top: 3%;
+}
+.css-18e3th9 {
+  flex: 1 1 0%;
+  width: 85%;
+  padding: 1rem 1rem 10rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+  min-width: auto;
+  max-width: initial;
+}
+.css-1dsu4p8 {
+  font-size: 3rem;
+  text-align: center;
+}
+.css-1rc53cf {
+  width: 50%;
+  border: 5px solid #e3e8e9;
+  margin-left: 25%;
+  margin-right: auto;
+}
+.css-ml2xh6 {
+    border: 1px solid #262730;
+    background: #262730;
+    color: #fafafa;
+    height: 322px; 
+}
+.css-1j3ha61 {
+  background-color: #bbe7fe;
+  font-weight: bolder;
+  color: black;
+  text-align: center;
+}
+.css-ps6290 {
+  text-align: center !important;
+}
+.title {
+  color: #FF4B4B;
+font-family: 'HP Simplified Hans';
+font-weight: bolder;
+font-size: 4rem;
+text-align: center;
+margin-bottom: 3rem;
+text-shadow: 4px 4px #4c5270;
+}
+table th{
+  background-color: #e5ddc8;
+  color: #fafafa;
+  font-weight: bolder;
+  text-shadow: 2px 2px #21b6a8;
+}
+th,td{
+  border: 3px solid #a47551 !important;
+  text-shadow: 2px 2px #fff4bd !important;
+}
+table{
+  background-color: #e5ddc8;
+  color: #a47551;
+  text-align: center;
+  font-family: Corbel;
+  font-weight: bold;
+  font-size: 2rem;
+  border-radius: 5%;
+
+}
+.line{
+  height: 10px !important;
+  border: 0;
+	box-shadow: 0 10px 10px -10px black inset;
+}
